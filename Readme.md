@@ -3,6 +3,7 @@
 # 100+ Basic-Python-Problems
 
 
+
 ## Qn1: *write a program to calculate the area of a circle of radius "r" entered by user*
 
 ### solution:
@@ -617,6 +618,7 @@ print("updated list",updated_list)
 """
 ```
 ## Qn48 *Write a python program to  
+
 
 
 
