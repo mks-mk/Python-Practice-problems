@@ -1,7 +1,33 @@
 [![License:MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
-# 100+ Basic-Python-Problems
 
+# 100+ Python Programming Challenges
+
+A comprehensive collection of 100+ fundamental Python problems sourced from various academic textbooks and technical resources. This repository is designed to bridge the gap between basic syntax and interview readiness through original solutions and logical breakdowns.
+
+## ⚪ Overview
+* **Original Solutions:** Every problem is implemented from scratch with a focus on logic and efficiency.
+* **Beginner Friendly:** Includes clear, simplified explanations for complex logic and "doubtful areas."
+* **Interview Prep:** Covers core algorithmic patterns and common technical screening questions.
+
+---
+
+## 👨‍💻 Problem Set
+
+### Q1: Area of a Circle
+*Write a program to calculate the area of a circle with radius 'r' provided by the user.*
+
+```python
+import math
+
+r = float(input("Enter the radius: "))
+pi = 3.14
+
+if r <= 0:
+    print("Please enter a non-zero positive value.")
+else:
+    area = pi * (r ** 2)
+    print(f"Area of the given circle = {area}")
 
 
 ## Qn1: *write a program to calculate the area of a circle of radius "r" entered by user*
