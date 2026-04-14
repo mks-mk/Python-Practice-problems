@@ -14,22 +14,6 @@ A comprehensive collection of 100+ fundamental Python problems sourced from vari
 
 ## 👨‍💻 Problem Set
 
-### Q1: Area of a Circle
-*Write a program to calculate the area of a circle with radius 'r' provided by the user.*
-
-```python
-import math
-
-r = float(input("Enter the radius: "))
-pi = 3.14
-
-if r <= 0:
-    print("Please enter a non-zero positive value.")
-else:
-    area = pi * (r ** 2)
-    print(f"Area of the given circle = {area}")
-
-
 ## Qn1: *write a program to calculate the area of a circle of radius "r" entered by user*
 
 ### solution:
